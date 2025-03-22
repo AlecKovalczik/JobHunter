@@ -8,6 +8,9 @@ export default function JobScreen() {
       <Link href="/account" style={styles.button}>
         Account
       </Link>
+      <Link href="/settings" style={styles.button}>
+        Settings
+      </Link>
     </View>
   );
 }
