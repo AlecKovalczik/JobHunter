@@ -8,10 +8,10 @@
       "developmentClient": true,
       "distribution": "internal",
       "android": {
-        "buildType": "latest"
+        "image": "latest"
       },
       "ios": {
-        "buildType": "latest"
+        "image": "latest"
       }
     },
     "preview": {
